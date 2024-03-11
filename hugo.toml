@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://livahugoblog.netlify.app/"
 languageCode = "en-us"
-title = "Liva | Personal blog template"
+title = "Raeesa Usmani"
 theme = "liva-hugo"
 summaryLength = "10"
 paginate = 6
@@ -81,8 +81,8 @@ weight = 3
 logo = "images/logo.png"
 home = "Home"
 # Meta data
-description = "This is meta description"
-author = "Themefisher"
+description = "You are the Creator of your Own Identity."
+author = "Dr. Raeesa Usmani"
 # Google Analitycs
 googleAnalitycsID = "Your ID"
 # Contact Information
@@ -90,7 +90,7 @@ mobile = "0124857985320"
 email = "demo@email.com"
 location = "Dhaka, Bangladedsh"
 # copyright
-copyright = "| copyright &copy; 2021 [Themefisher](https://themefisher.com/hugo-themes/) All Rights Reserved |"
+copyright = "| copyright &copy; @Raeesa Usmani The content on this blog is the original creation of the author. Unauthorized use or duplication of the content is legally prohibited. All Rights Reserved |"
 
 # Preloader
 [params.preloader]
@@ -105,7 +105,7 @@ enable = true
 [params.newsletter]
 enable = true
 title = "Join Our Newsletter"
-content = "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero"
+content = "Want to get the latest news and updates? Join our newsletter and follow us on social media."
 
 
 # cookies

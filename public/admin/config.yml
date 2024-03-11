@@ -1,0 +1,26 @@
+#static/admin/config.yml
+
+backend:
+  name: git-gateway
+  branch: main
+media_folder: "static/images/post" # Folder where user uploaded files should go
+public_folder: "images"
+collections:
+  - name: "posts" # Used in routes, e.g., /admin/collections/post
+    label: "Posts" # Used in the UI
+    folder: "content/blog" # The path to the folder where the documents are stored
+    path: "post-{{slug}}"
+    media_folder: "../../static/images/post/" # Save images in the post's own folder instead of the static folder
+    public_folder: "/images/post" # The path to the folder where the images are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields for each document, usually in front matter
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Draft", name: "draft", widget: "boolean", default: true }
+      - { label: "Featured Image", name: "image", widget: "image" , required: true}
+      - { label: "Description", name: "description", widget: "string" , required: true}
+      - { label: "Categories", name: "categories", widget: "list", summary: "{{fields.category}}", field: { label: "Category", name: "category", widget: "string" } , required: true}
+      - { label: "Tags", name: "tags", widget: "list", summary: "{{fields.tag}}", field: { label: "Tag", name: "tag", widget: "string" } , required: true}
+       # https://github.com/decaporg/decap-cms/issues/4646
+      - { label: "Type", name: "type", widget: "select", options: ["featured", "post"] , required: true}
+      - { label: "Body", name: "body", widget: "markdown", hint: "Make sure to name added image as thumbnail" , required: true}

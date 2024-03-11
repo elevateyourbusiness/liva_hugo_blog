@@ -10,11 +10,7 @@ image: "images/author.jpg"
 description: "this is meta description"
 
 # type
-type : "about"
+type: "about"
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet,
-
-consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
-
-nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd
+I am an academic, researcher, translator, blogger, poet and writer-in making. I write to take an honest look within, to understand the vacuum I feel, when fail to express what is going on within. Although all of us lead different and opposite lives, there is always something that binds us all in a thread -the emotional upheaval. I figured there could be many like myself who may fail to say what they feel like and unlike me, may not have a way to express themselves. Hence, I am writing all that I feel in black and white, loud and clear, to create an inclusive e-community where we lead this exclusive rollercoaster journey of life inclusively, together. To, express, share, learn, unlearn, and re-learn the ways of leading life, distantly together!
