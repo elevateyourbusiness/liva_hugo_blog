@@ -10,16 +10,17 @@ collections:
     label: "Posts" # Used in the UI
     folder: "content/blog" # The path to the folder where the documents are stored
     path: "post-{{slug}}"
-    media_folder: "media" # Save images in the post's own folder instead of the static folder
+    media_folder: "../../static/image/post/" # Save images in the post's own folder instead of the static folder
     public_folder: ""
     create: true # Allow users to create new documents in this collection
     fields: # The fields for each document, usually in front matter
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label:"Draft", name: "draft", widget: "boolean", default: true }
-      - { label: "Featured Image", name: "image", widget: "image" }
-      - { label: "Description", name: "description", widget: "string" }
-      - { label: "Categories", name: "categories", widget: "list", summary: "{{fields.category}}", field: { label: "Category", name: "category", widget: "string" }}
-      - { label: "Tags", name: "tags", widget: "list", summary: "{{fields.tag}}", field: { label: "Tag", name: "tag", widget: "string" }} # https://github.com/decaporg/decap-cms/issues/4646
-      - { label: "Type", name: "type", widget: "select", options: ["featured", "regular"] }
-      - { label: "Body", name: "body", widget: "markdown", hint: "Make sure to name added image as thumbnail" }
+      - { label: "Featured Image", name: "image", widget: "image" , required: true}
+      - { label: "Description", name: "description", widget: "string" , required: true}
+      - { label: "Categories", name: "categories", widget: "list", summary: "{{fields.category}}", field: { label: "Category", name: "category", widget: "string" } , required: true}
+      - { label: "Tags", name: "tags", widget: "list", summary: "{{fields.tag}}", field: { label: "Tag", name: "tag", widget: "string" } , required: true}
+       # https://github.com/decaporg/decap-cms/issues/4646
+      - { label: "Type", name: "type", widget: "select", options: ["featured", "post"] , required: true}
+      - { label: "Body", name: "body", widget: "markdown", hint: "Make sure to name added image as thumbnail" , required: true}
