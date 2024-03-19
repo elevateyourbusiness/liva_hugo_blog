@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://livahugoblog.netlify.app/"
+baseURL = "https://raeesausmani.in"
 languageCode = "en-us"
 title = "Raeesa Usmani"
 theme = "liva-hugo"
