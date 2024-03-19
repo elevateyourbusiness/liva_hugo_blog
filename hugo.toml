@@ -3,7 +3,7 @@ baseURL = "https://raeesausmani.in"
 languageCode = "en-us"
 title = "Raeesa Usmani"
 theme = "liva-hugo"
-summaryLength = "10"
+summaryLength = "40"
 paginate = 6
 disqusShortname = ""
 
