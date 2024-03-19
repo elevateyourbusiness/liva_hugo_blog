@@ -3,7 +3,7 @@ baseURL = "https://raeesausmani.in"
 languageCode = "en-us"
 title = "Raeesa Usmani"
 theme = "liva-hugo"
-summaryLength = "10"
+summaryLength = "40"
 paginate = 6
 disqusShortname = ""
 
@@ -86,9 +86,9 @@ author = "Dr. Raeesa Usmani"
 # Google Analitycs
 googleAnalitycsID = "Your ID"
 # Contact Information
-mobile = "0124857985320"
-email = "demo@email.com"
-location = "Dhaka, Bangladedsh"
+mobile = ""
+email = "usmani.raeesa@gmail.com"
+location = "Hyderabad, India"
 # copyright
 copyright = "| copyright &copy; @Raeesa Usmani The content on this blog is the original creation of the author. Unauthorized use or duplication of the content is legally prohibited. All Rights Reserved |"
 
@@ -103,7 +103,7 @@ enable = true
 
 ############################ news letter ########################
 [params.newsletter]
-enable = true
+enable = false
 title = "Join Our Newsletter"
 content = "Want to get the latest news and updates? Join our newsletter and follow us on social media."
 
@@ -115,27 +115,13 @@ expire_days = 2
 
 
 ############################# social site ########################
-[[params.social]]
-title = "facebook"
-icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
-link = "#"
 
 [[params.social]]
 title = "twitter"
 icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://twitter.com/raeesausmani"
 
 [[params.social]]
 title = "instagram"
 icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-title = "github"
-icon = "ti-github" # themify icon : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-title = "linkedin"
-icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://www.instagram.com/selfmirroringwithraeesa/"
