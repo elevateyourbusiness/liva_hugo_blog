@@ -5,7 +5,7 @@ title = "Raeesa Usmani"
 theme = "liva-hugo"
 summaryLength = "40"
 paginate = 6
-disqusShortname = ""
+disqusShortname = "usmani-raeesa"
 
 [outputs]
 home = ["HTML", "RSS", "JSON"]
