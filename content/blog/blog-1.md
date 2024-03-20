@@ -1,27 +1,18 @@
 ---
-title: "The Art of Consciously Understanding Your Self-Worth: 1"
-author: "Dr. Raeesa Usmani"
-date: 2024-03-11
 draft: false
-
-# post thumb
-image: "images/post/blog-1.png"
-
-# meta description
+author: Dr. Raeesa Usmani
+title: "The Art of Consciously Understanding Your Self-Worth: 1"
+date: 2024-03-11
+image: images/post/blog-1.png
 description: "The art of consciously understanding your self-worth: 1"
-
-# taxonomies
 categories:
-  - "Personal Development"
+  - Personal Development
 tags:
-  - "Self-Worth"
-  - "Personal Growth"
-  - "Self-Esteem"
-
-# post type
-type: "featured"
+  - Personal Growth
+  - Self-Worth
+  - Self-Esteem
+type: featured
 ---
-
 Hey!
 
 Hope you’re doing well and keeping safe.
