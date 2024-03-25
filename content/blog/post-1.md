@@ -2,7 +2,7 @@
 title: "Selective Emotionally Cold People: An Interesting Breed"
 date: 2024-03-25T07:40:55.347Z
 draft: false
-image: images/featured-post/post-1.jpg
+image: /images/post/post-1.jpg
 description: "Selective Emotionally Cold People: An Interesting Breed"
 categories:
   - "Blog writing "
