@@ -8,15 +8,15 @@ categories:
   - Programming Language
   - Life experiences
   - Blog writing
-  - "Diary "
-  - "Inspiration and learning "
-  - "Daily life "
+  - Diary
+  - Inspiration and learning
+  - Daily life
   - "Musing "
 tags:
   - Life learning
   - Raeesa writes
   - Philosophy
-  - "Micro-tale "
+  - Micro-tale
   - Life and experience
 type: featured
 ---
