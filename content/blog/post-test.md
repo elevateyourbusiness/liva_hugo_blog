@@ -1,7 +1,7 @@
 ---
 title: test
 date: 2024-04-06
-draft: true
+draft: false
 image: /images/post/01.png
 description: test
 categories:
