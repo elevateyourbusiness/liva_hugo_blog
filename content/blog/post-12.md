@@ -18,7 +18,7 @@ tags:
   - Philosophy
   - Micro-tale
   - Life and experience
-type: featured
+type: post
 ---
 
 > Cough has a character like we humans do.
