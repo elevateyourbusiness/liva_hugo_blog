@@ -1,3 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Self-Worth on Raeesa Usmani</title><link>https://livahugoblog.netlify.app/tags/self-worth/</link><description>Recent content in Self-Worth on Raeesa Usmani</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 11 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://livahugoblog.netlify.app/tags/self-worth/index.xml" rel="self" type="application/rss+xml"/><item><title>The Art of Consciously Understanding Your Self-Worth: 1</title><link>https://livahugoblog.netlify.app/blog/blog-1/</link><pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate><guid>https://livahugoblog.netlify.app/blog/blog-1/</guid><description>Hey!
-Hope you’re doing well and keeping safe.
-I’ve been in a non-active mode for a while.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Self-Worth on Raeesa Usmani</title>
+    <link>http://localhost:1313/tags/self-worth/</link>
+    <description>Recent content in Self-Worth on Raeesa Usmani</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/self-worth/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Art of Consciously Understanding Your Self-Worth: 1</title>
+      <link>http://localhost:1313/blog/blog-1/</link>
+      <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/blog-1/</guid>
+      <description>Hey!&#xA;Hope you’re doing well and keeping safe.&#xA;I’ve been in a non-active mode for a while. However, irrespective of what you feel, the world continues to exist and so do the experiences that we get en route. So was the case with me.</description>
+    </item>
+  </channel>
+</rss>

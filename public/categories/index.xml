@@ -1,1 +1,173 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Categories on Raeesa Usmani</title><link>https://livahugoblog.netlify.app/categories/</link><description>Recent content in Categories on Raeesa Usmani</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 11 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://livahugoblog.netlify.app/categories/index.xml" rel="self" type="application/rss+xml"/><item><title>Personal Development</title><link>https://livahugoblog.netlify.app/categories/personal-development/</link><pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate><guid>https://livahugoblog.netlify.app/categories/personal-development/</guid><description/></item><item><title>Blog Writing</title><link>https://livahugoblog.netlify.app/categories/blog-writing/</link><pubDate>Sun, 04 Feb 2024 00:00:00 +0000</pubDate><guid>https://livahugoblog.netlify.app/categories/blog-writing/</guid><description/></item><item><title>Diary</title><link>https://livahugoblog.netlify.app/categories/diary/</link><pubDate>Sun, 04 Feb 2024 00:00:00 +0000</pubDate><guid>https://livahugoblog.netlify.app/categories/diary/</guid><description/></item><item><title>Inspiration</title><link>https://livahugoblog.netlify.app/categories/inspiration/</link><pubDate>Sun, 04 Feb 2024 00:00:00 +0000</pubDate><guid>https://livahugoblog.netlify.app/categories/inspiration/</guid><description/></item><item><title>Life and Experiences</title><link>https://livahugoblog.netlify.app/categories/life-and-experiences/</link><pubDate>Sun, 04 Feb 2024 00:00:00 +0000</pubDate><guid>https://livahugoblog.netlify.app/categories/life-and-experiences/</guid><description/></item><item><title>Long-form</title><link>https://livahugoblog.netlify.app/categories/long-form/</link><pubDate>Sun, 04 Feb 2024 00:00:00 +0000</pubDate><guid>https://livahugoblog.netlify.app/categories/long-form/</guid><description/></item><item><title>Musing</title><link>https://livahugoblog.netlify.app/categories/musing/</link><pubDate>Sun, 04 Feb 2024 00:00:00 +0000</pubDate><guid>https://livahugoblog.netlify.app/categories/musing/</guid><description/></item><item><title>Philosophy</title><link>https://livahugoblog.netlify.app/categories/philosophy/</link><pubDate>Sun, 04 Feb 2024 00:00:00 +0000</pubDate><guid>https://livahugoblog.netlify.app/categories/philosophy/</guid><description/></item><item><title>Raeesa Writes</title><link>https://livahugoblog.netlify.app/categories/raeesa-writes/</link><pubDate>Sun, 04 Feb 2024 00:00:00 +0000</pubDate><guid>https://livahugoblog.netlify.app/categories/raeesa-writes/</guid><description/></item><item><title>Micro-tale</title><link>https://livahugoblog.netlify.app/categories/micro-tale/</link><pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate><guid>https://livahugoblog.netlify.app/categories/micro-tale/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Raeesa Usmani</title>
+    <link>http://localhost:1313/categories/</link>
+    <description>Recent content in Categories on Raeesa Usmani</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog Writing</title>
+      <link>http://localhost:1313/categories/blog-writing/</link>
+      <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/blog-writing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Daily Life</title>
+      <link>http://localhost:1313/categories/daily-life/</link>
+      <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/daily-life/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Diary</title>
+      <link>http://localhost:1313/categories/diary/</link>
+      <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/diary/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Inspiration and Learning</title>
+      <link>http://localhost:1313/categories/inspiration-and-learning/</link>
+      <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/inspiration-and-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Life Experiences</title>
+      <link>http://localhost:1313/categories/life-experiences/</link>
+      <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/life-experiences/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Musing </title>
+      <link>http://localhost:1313/categories/musing-/</link>
+      <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/musing-/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Programming Language</title>
+      <link>http://localhost:1313/categories/programming-language/</link>
+      <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/programming-language/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blog Writing </title>
+      <link>http://localhost:1313/categories/blog-writing-/</link>
+      <pubDate>Mon, 25 Mar 2024 07:40:55 +0000</pubDate>
+      <guid>http://localhost:1313/categories/blog-writing-/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Inspiration </title>
+      <link>http://localhost:1313/categories/inspiration-/</link>
+      <pubDate>Mon, 25 Mar 2024 07:40:55 +0000</pubDate>
+      <guid>http://localhost:1313/categories/inspiration-/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Long-Form</title>
+      <link>http://localhost:1313/categories/long-form/</link>
+      <pubDate>Mon, 25 Mar 2024 07:40:55 +0000</pubDate>
+      <guid>http://localhost:1313/categories/long-form/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Philosophy </title>
+      <link>http://localhost:1313/categories/philosophy-/</link>
+      <pubDate>Mon, 25 Mar 2024 07:40:55 +0000</pubDate>
+      <guid>http://localhost:1313/categories/philosophy-/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Raeesa Writes </title>
+      <link>http://localhost:1313/categories/raeesa-writes-/</link>
+      <pubDate>Mon, 25 Mar 2024 07:40:55 +0000</pubDate>
+      <guid>http://localhost:1313/categories/raeesa-writes-/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Personal Development</title>
+      <link>http://localhost:1313/categories/personal-development/</link>
+      <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/personal-development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Inspiration</title>
+      <link>http://localhost:1313/categories/inspiration/</link>
+      <pubDate>Sun, 04 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/inspiration/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Life and Experiences</title>
+      <link>http://localhost:1313/categories/life-and-experiences/</link>
+      <pubDate>Sun, 04 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/life-and-experiences/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Musing</title>
+      <link>http://localhost:1313/categories/musing/</link>
+      <pubDate>Sun, 04 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/musing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Philosophy</title>
+      <link>http://localhost:1313/categories/philosophy/</link>
+      <pubDate>Sun, 04 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/philosophy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Raeesa Writes</title>
+      <link>http://localhost:1313/categories/raeesa-writes/</link>
+      <pubDate>Sun, 04 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/raeesa-writes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Micro-Tale</title>
+      <link>http://localhost:1313/categories/micro-tale/</link>
+      <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/micro-tale/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Emotion-Less</title>
+      <link>http://localhost:1313/categories/emotion-less/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/emotion-less/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Go Language</title>
+      <link>http://localhost:1313/categories/go-language/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/go-language/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Life Experiences </title>
+      <link>http://localhost:1313/categories/life-experiences-/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/life-experiences-/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Paid Laughter </title>
+      <link>http://localhost:1313/categories/paid-laughter-/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/paid-laughter-/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

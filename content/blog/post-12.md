@@ -1,6 +1,6 @@
 ---
 title: Just try to understand the character, sit back and stop worrying
-date: 2024-04-06T12:47:00.000Z
+date: 2024-04-06
 draft: false
 image: /images/post/post-4.jpg
 description: Just try to understand the character, sit back and stop worrying
@@ -20,6 +20,7 @@ tags:
   - Life and experience
 type: featured
 ---
+
 > Cough has a character like we humans do.
 >
 > Don't worry. Just try to understand it.
