@@ -1,7 +1,7 @@
 ---
 title: Just try to understand the character, sit back and stop worrying
 date: 2024-04-06T12:47:00.000Z
-draft: true
+draft: false
 image: /images/post/post-4.jpg
 description: Just try to understand the character, sit back and stop worrying
 categories:
