@@ -1,5 +1,5 @@
 ---
-title: Just try to understand the character, sit back and stop worrying
+title: Just try to understand the character, sit back and stop worrying.
 date: 2024-04-06
 draft: false
 image: /images/post/post-4.jpg
