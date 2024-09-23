@@ -1,6 +1,6 @@
 ---
 title: No Role Model is the Best Model
-date: 2019-10-29T10:07:47+06:00
+date: 2024-09-23
 draft: false
 image: /images/post/img-20240829-wa0001.jpg
 description: By Dr. Raeesa Usmani
