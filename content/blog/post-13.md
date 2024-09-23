@@ -1,172 +1,35 @@
 ---
-title: "How To Use Checklists To Improve Your UX"
+title: No Role Model is the Best Model
 date: 2019-10-29T10:07:47+06:00
-draft: true
-
-# post thumb
-image: "images/post/post-3.jpg"
-
-# meta description
-description: "this is meta description"
-
-# taxonomies
+draft: false
+image: /images/post/img-20240829-wa0001.jpg
+description: By Dr. Raeesa Usmani
 categories:
-  - "Go Language"
-tags:
-  - "Photos"
-  - "Game"
-  - "HTML"
-  - "Python"
-  - "New"
-
-# post type
-type: "post"
+  - Blog writing
+  - "Diary Writing "
+  - Life and Experiences
+  - "Musing "
+  - "Long form "
+  - "Philosophy "
+  - "Inspiration "
+  - "Live and survive "
+tags: []
+type: post
 ---
+We are often asked about who our role model is. A typical expectation is to get a name and what inspires us to follow them. And that is it. 
 
-# Heading 1
+However, I have always had a different view on this question. I do not have ‘the role model’, per se. I can not like and follow ‘the personality’. However, I admire and get inspired by various personalities from time to time. Be it an actor, a director, an entrepreneur, a teacher, a working professional, a commoner, a C-suite leader, a creative or a historical figure. I admire their spirit of not giving up, taking up challenges in life – head on and continuing the journey of learning, unlearning and relearning. They are there to amaze you with their intriguing stories that may seem very common yet highly uncommon. 
 
-## Heading 2
+I believe that every person has a story to tell. It is their approach to life that makes them stand apart in the crowd. They are out there in the broad, large world. Living, surviving. I love to listen to those who have lived a life with a massive bundle of narratives and experiences to unfold over the years. Try it someday. Listening to a lived experience is enough to motivate any disheartened soul. Their unwavering spirit of not giving up and flowing with the flow, like the zigzagged, curvey river, flows. The river knows and aims to reach the sea without much concern about the path it will have to traverse, be it dense forest or the most extended desert, a stony rough patch or a hilly mountain to cross. It just flows. 
 
-### Heading 3
+Imagine a river sitting down with a map to reach the sea. Don't you think it would never dare set out on the path, seeing the challenges ahead? Instead, it just flows. Don’t you think life will become easier if we also learn to, just flow? Take one step at a time. Fall, cry, get our knees hurt, bleed, but get back on our feet, once again to fall one more time.
 
-#### Heading 4
+I like to live and lead like a river. I do not follow ‘the personality’ to get inspiration but believe in getting out there, on the road, to meet and greet wonderful people, see them, learn from them, and let the inspiration flow like a river, continuously. I also take halts, pauses, many times longer than I thought, but soon I will be reminded of the fact, as Robert Frost would describe in the poem “The Road Not Taken”,
 
-##### Heading 5
+“Two roads diverged in a wood, and I—
 
-###### Heading 6
+I took the one less traveled by,
 
-<hr>
+And that has made all the difference.”
 
-##### Emphasis
-
-Emphasis, aka italics, with _asterisks_ or _underscores_.
-
-Strong emphasis, aka bold, with **asterisks** or **underscores**.
-
-Combined emphasis with **asterisks and _underscores_**.
-
-Strikethrough uses two tildes. ~~Scratch this.~~
-
-<hr>
-
-##### Link
-
-[I'm an inline-style link](https://www.google.com)
-
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
-
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
-
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
-
-[You can use numbers for reference-style link definitions][1]
-
-Or leave it empty and use the [link text itself].
-
-URLs and URLs in angle brackets will automatically get turned into links.
-http://www.example.com or <http://www.example.com> and sometimes
-example.com (but not on Github, for example).
-
-Some text to show that the reference links can follow later.
-
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
-[1]: http://slashdot.org
-[link text itself]: http://www.reddit.com
-
-<hr>
-
-##### Paragraph
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus, facilis placeat pariatur! Voluptatem, sed harum pariatur adipisci voluptates voluptatum cumque, porro sint minima similique magni perferendis fuga! Optio vel ipsum excepturi tempore reiciendis id quidem? Vel in, doloribus debitis nesciunt fugit sequi magnam accusantium modi neque quis, vitae velit, pariatur harum autem a! Velit impedit atque maiores animi possimus asperiores natus repellendus excepturi sint architecto eligendi non, omnis nihil. Facilis, doloremque illum. Fugit optio laborum minus debitis natus illo perspiciatis corporis voluptatum rerum laboriosam.
-
-<hr>
-
-##### List
-
-1. List item
-2. List item
-3. List item
-4. List item
-5. List item
-
-##### Unordered List
-
-- List item
-- List item
-- List item
-- List item
-- List item
-
-<hr>
-
-##### Code and Syntax Highlighting
-
-Inline `code` has `back-ticks around` it.
-
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
-
-```python
-s = "Python syntax highlighting"
-print s
-```
-
-```
-No language indicated, so no syntax highlighting.
-But let's throw in a <b>tag</b>.
-```
-
-<hr>
-
-##### Blockquote
-
-> This is a blockquote example.
-
-<hr>
-
-##### Inline HTML
-
-You can also use raw HTML in your Markdown, and it'll mostly work pretty well.
-
-<dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
-
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
-
-<hr>
-
-##### Tables
-
-Colons can be used to align columns.
-
-| Tables        |      Are      |  Cool |
-| ------------- | :-----------: | ----: |
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      |   centered    |   $12 |
-| zebra stripes |   are neat    |    $1 |
-
-There must be at least 3 dashes separating each header cell.
-The outer pipes (|) are optional, and you don't need to make the
-raw Markdown line up prettily. You can also use inline Markdown.
-
-| Markdown | Less      | Pretty     |
-| -------- | --------- | ---------- |
-| _Still_  | `renders` | **nicely** |
-| 1        | 2         | 3          |
-
-<hr>
-
-##### Image
-
-![image](../../images/post/post-1.jpg)
-
-<hr>
-
-##### Youtube video
-
-{{< youtube C0DPdy98e4c >}}
+You can also share what or who inspires you, why, and how. This would be an interesting thread for all of us to inspire and get inspiration from.
